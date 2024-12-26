@@ -12,7 +12,8 @@ import java.util.Scanner;
 public class BOJ11726 {
 
 	/*
-	 * 2×n 크기의 직사각형을 1×2, 2×1 타일로 채우는 방법의 수를 구하는 프로그램을 작성하시오.
+	 * 2×n 크기의 직사각형을 1×2, 2×1 타일로 채우는 방법의 수구하기
+	 * 출처 : https://www.acmicpc.net/problem/11726
 	 */
 	
 	 public static int ways(int n) {
